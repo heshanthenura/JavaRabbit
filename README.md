@@ -33,3 +33,12 @@ Java Rabbit is a fun and playful project created as a joke in response to Python
 
 - Java 8 or higher
 - JavaFX (included in the project)
+
+## Future Updates
+
+This project is just the beginning, and more features are planned for the future, including:
+- More drawing tools
+- User interface improvements
+- New ways to interact with the canvas
+
+Stay tuned for more updates!
